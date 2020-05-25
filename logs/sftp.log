@@ -1,0 +1,141 @@
+May 22 09:16:25 10.71.60.0 u93058483-rlezama Connection from 10.71.60.0 port 23900 on 74.208.58.52 port 22
+May 22 09:16:30 10.71.60.0 u93058483-rlezama Accepted password for u93058483-rlezama from 10.71.60.0 port 23900 ssh2
+May 22 09:17:23 10.71.60.0 u93058483-rlezama Starting session: subsystem 'sftp' for u93058483-rlezama from 10.71.60.0 port 23900
+May 22 09:17:23 10.71.60.0 u93058483-rlezama session opened for local user u93058483-rlezama from [10.71.60.0]
+May 22 09:17:24 10.71.60.0 u93058483-rlezama Starting session: subsystem 'sftp' for u93058483-rlezama from 10.71.60.0 port 23900
+May 22 09:17:24 10.71.60.0 u93058483-rlezama session opened for local user u93058483-rlezama from [10.71.60.0]
+May 22 09:17:24 10.71.60.0 u93058483-rlezama session closed for local user u93058483-rlezama from [10.71.60.0]
+May 22 09:17:25 10.71.60.0 u93058483-rlezama Starting session: subsystem 'sftp' for u93058483-rlezama from 10.71.60.0 port 23900
+May 22 09:17:25 10.71.60.0 u93058483-rlezama session opened for local user u93058483-rlezama from [10.71.60.0]
+May 22 09:19:08 10.71.60.0 u93058483-rlezama session closed for local user u93058483-rlezama from [10.71.60.0]
+May 22 09:19:10 10.71.60.0 u93058483-rlezama Starting session: subsystem 'sftp' for u93058483-rlezama from 10.71.60.0 port 23900
+May 22 09:19:10 10.71.60.0 u93058483-rlezama session opened for local user u93058483-rlezama from [10.71.60.0]
+May 22 09:19:16 10.71.60.0 u93058483-rlezama open "//logs/traffic.html/.htaccess" flags READ mode 0666
+May 22 09:19:16 10.71.60.0 u93058483-rlezama close "//logs/traffic.html/.htaccess" bytes read 23 written 0
+May 22 09:19:16 10.71.60.0 u93058483-rlezama [10.71.60.0|get|0|23|0|0|0|2f2f6c6f67732f747261666669632e68746d6c2f2e6874616363657373|]
+May 22 09:19:16 10.71.60.0 u93058483-rlezama open "//logs/traffic.html/index.html" flags READ mode 0666
+May 22 09:19:16 10.71.60.0 u93058483-rlezama close "//logs/traffic.html/index.html" bytes read 7518 written 0
+May 22 09:19:16 10.71.60.0 u93058483-rlezama [10.71.60.0|get|0|7518|0|0|0|2f2f6c6f67732f747261666669632e68746d6c2f696e6465782e68746d6c|]
+May 22 09:19:16 10.71.60.0 u93058483-rlezama open "//logs/traffic.html/04.html" flags READ mode 0666
+May 22 09:19:16 10.71.60.0 u93058483-rlezama close "//logs/traffic.html/04.html" bytes read 11312 written 0
+May 22 09:19:16 10.71.60.0 u93058483-rlezama [10.71.60.0|get|0|11312|0|0|0|2f2f6c6f67732f747261666669632e68746d6c2f30342e68746d6c|]
+May 22 09:19:17 10.71.60.0 u93058483-rlezama open "//logs/traffic.html/.md5sums" flags READ mode 0666
+May 22 09:19:17 10.71.60.0 u93058483-rlezama sent status Permission denied
+May 22 09:19:17 10.71.60.0 u93058483-rlezama session closed for local user u93058483-rlezama from [10.71.60.0]
+May 22 09:19:17 10.71.60.0 u93058483-rlezama Starting session: subsystem 'sftp' for u93058483-rlezama from 10.71.60.0 port 23900
+May 22 09:19:17 10.71.60.0 u93058483-rlezama session opened for local user u93058483-rlezama from [10.71.60.0]
+May 22 09:19:17 10.71.60.0 u93058483-rlezama open "//logs/traffic.html/05.html" flags READ mode 0666
+May 22 09:19:17 10.71.60.0 u93058483-rlezama close "//logs/traffic.html/05.html" bytes read 8221 written 0
+May 22 09:19:17 10.71.60.0 u93058483-rlezama [10.71.60.0|get|0|8221|0|0|0|2f2f6c6f67732f747261666669632e68746d6c2f30352e68746d6c|]
+May 22 09:19:17 10.71.60.0 u93058483-rlezama open "//logs/traffic.html/06.html" flags READ mode 0666
+May 22 09:19:18 10.71.60.0 u93058483-rlezama close "//logs/traffic.html/06.html" bytes read 10889 written 0
+May 22 09:19:18 10.71.60.0 u93058483-rlezama [10.71.60.0|get|1|10889|0|0|0|2f2f6c6f67732f747261666669632e68746d6c2f30362e68746d6c|]
+May 22 09:19:18 10.71.60.0 u93058483-rlezama open "//logs/traffic.html/07.html" flags READ mode 0666
+May 22 09:19:18 10.71.60.0 u93058483-rlezama close "//logs/traffic.html/07.html" bytes read 11579 written 0
+May 22 09:19:18 10.71.60.0 u93058483-rlezama [10.71.60.0|get|0|11579|0|0|0|2f2f6c6f67732f747261666669632e68746d6c2f30372e68746d6c|]
+May 22 09:19:18 10.71.60.0 u93058483-rlezama open "//logs/traffic.html/08.html" flags READ mode 0666
+May 22 09:19:18 10.71.60.0 u93058483-rlezama close "//logs/traffic.html/08.html" bytes read 11236 written 0
+May 22 09:19:18 10.71.60.0 u93058483-rlezama [10.71.60.0|get|0|11236|0|0|0|2f2f6c6f67732f747261666669632e68746d6c2f30382e68746d6c|]
+May 22 09:19:18 10.71.60.0 u93058483-rlezama open "//logs/traffic.html/09.html" flags READ mode 0666
+May 22 09:19:19 10.71.60.0 u93058483-rlezama close "//logs/traffic.html/09.html" bytes read 11284 written 0
+May 22 09:19:19 10.71.60.0 u93058483-rlezama [10.71.60.0|get|1|11284|0|0|0|2f2f6c6f67732f747261666669632e68746d6c2f30392e68746d6c|]
+May 22 09:19:19 10.71.60.0 u93058483-rlezama open "//logs/traffic.html/10.html" flags READ mode 0666
+May 22 09:19:19 10.71.60.0 u93058483-rlezama close "//logs/traffic.html/10.html" bytes read 11651 written 0
+May 22 09:19:19 10.71.60.0 u93058483-rlezama [10.71.60.0|get|0|11651|0|0|0|2f2f6c6f67732f747261666669632e68746d6c2f31302e68746d6c|]
+May 22 09:19:19 10.71.60.0 u93058483-rlezama open "//logs/traffic.html/11.html" flags READ mode 0666
+May 22 09:19:19 10.71.60.0 u93058483-rlezama close "//logs/traffic.html/11.html" bytes read 11304 written 0
+May 22 09:19:19 10.71.60.0 u93058483-rlezama [10.71.60.0|get|0|11304|0|0|0|2f2f6c6f67732f747261666669632e68746d6c2f31312e68746d6c|]
+May 22 09:19:19 10.71.60.0 u93058483-rlezama open "//logs/traffic.html/12.html" flags READ mode 0666
+May 22 09:19:20 10.71.60.0 u93058483-rlezama close "//logs/traffic.html/12.html" bytes read 11643 written 0
+May 22 09:19:20 10.71.60.0 u93058483-rlezama [10.71.60.0|get|1|11643|0|0|0|2f2f6c6f67732f747261666669632e68746d6c2f31322e68746d6c|]
+May 22 09:19:20 10.71.60.0 u93058483-rlezama open "//logs/traffic.html/01.html" flags READ mode 0666
+May 22 09:19:20 10.71.60.0 u93058483-rlezama close "//logs/traffic.html/01.html" bytes read 11639 written 0
+May 22 09:19:20 10.71.60.0 u93058483-rlezama [10.71.60.0|get|0|11639|0|0|0|2f2f6c6f67732f747261666669632e68746d6c2f30312e68746d6c|]
+May 22 09:19:20 10.71.60.0 u93058483-rlezama open "//logs/traffic.html/02.html" flags READ mode 0666
+May 22 09:19:21 10.71.60.0 u93058483-rlezama close "//logs/traffic.html/02.html" bytes read 10961 written 0
+May 22 09:19:21 10.71.60.0 u93058483-rlezama [10.71.60.0|get|1|10961|0|0|0|2f2f6c6f67732f747261666669632e68746d6c2f30322e68746d6c|]
+May 22 09:19:21 10.71.60.0 u93058483-rlezama open "//logs/traffic.html/03.html" flags READ mode 0666
+May 22 09:19:21 10.71.60.0 u93058483-rlezama close "//logs/traffic.html/03.html" bytes read 11663 written 0
+May 22 09:19:21 10.71.60.0 u93058483-rlezama [10.71.60.0|get|0|11663|0|0|0|2f2f6c6f67732f747261666669632e68746d6c2f30332e68746d6c|]
+May 22 09:19:21 10.71.60.0 u93058483-rlezama open "//logs/.htaccess" flags READ mode 0666
+May 22 09:19:21 10.71.60.0 u93058483-rlezama close "//logs/.htaccess" bytes read 266 written 0
+May 22 09:19:21 10.71.60.0 u93058483-rlezama [10.71.60.0|get|0|266|0|0|0|2f2f6c6f67732f2e6874616363657373|]
+May 22 09:19:21 10.71.60.0 u93058483-rlezama open "//logs/info.pl" flags READ mode 0666
+May 22 09:19:22 10.71.60.0 u93058483-rlezama close "//logs/info.pl" bytes read 4176 written 0
+May 22 09:19:22 10.71.60.0 u93058483-rlezama [10.71.60.0|get|1|4176|0|0|0|2f2f6c6f67732f696e666f2e706c|]
+May 22 09:19:22 10.71.60.0 u93058483-rlezama open "//logs/info.php5" flags READ mode 0666
+May 22 09:19:22 10.71.60.0 u93058483-rlezama close "//logs/info.php5" bytes read 21 written 0
+May 22 09:19:22 10.71.60.0 u93058483-rlezama [10.71.60.0|get|0|21|0|0|0|2f2f6c6f67732f696e666f2e70687035|]
+May 22 09:19:22 10.71.60.0 u93058483-rlezama open "//logs/info.py" flags READ mode 0666
+May 22 09:19:22 10.71.60.0 u93058483-rlezama close "//logs/info.py" bytes read 6384 written 0
+May 22 09:19:22 10.71.60.0 u93058483-rlezama [10.71.60.0|get|0|6384|0|0|0|2f2f6c6f67732f696e666f2e7079|]
+May 22 09:19:22 10.71.60.0 u93058483-rlezama open "//logs/traffic.db" flags READ mode 0666
+May 22 09:19:23 10.71.60.0 u93058483-rlezama close "//logs/traffic.db" bytes read 45056 written 0
+May 22 09:19:23 10.71.60.0 u93058483-rlezama [10.71.60.0|get|1|45056|0|0|0|2f2f6c6f67732f747261666669632e6462|]
+May 22 09:19:23 10.71.60.0 u93058483-rlezama open "//logs/last_traffic" flags READ mode 0666
+May 22 09:19:23 10.71.60.0 u93058483-rlezama close "//logs/last_traffic" bytes read 0 written 0
+May 22 09:19:23 10.71.60.0 u93058483-rlezama [10.71.60.0|get|0|0|0|0|0|2f2f6c6f67732f6c6173745f74726166666963|]
+May 22 09:19:23 10.71.60.0 u93058483-rlezama open "//logs/access.log.13.gz" flags READ mode 0666
+May 22 09:19:24 10.71.60.0 u93058483-rlezama close "//logs/access.log.13.gz" bytes read 6041 written 0
+May 22 09:19:24 10.71.60.0 u93058483-rlezama [10.71.60.0|get|1|6041|0|0|0|2f2f6c6f67732f6163636573732e6c6f672e31332e677a|]
+May 22 09:19:24 10.71.60.0 u93058483-rlezama open "//logs/access.log.20.3.gz" flags READ mode 0666
+May 22 09:19:24 10.71.60.0 u93058483-rlezama close "//logs/access.log.20.3.gz" bytes read 1856 written 0
+May 22 09:19:24 10.71.60.0 u93058483-rlezama [10.71.60.0|get|0|1856|0|0|0|2f2f6c6f67732f6163636573732e6c6f672e32302e332e677a|]
+May 22 09:19:24 10.71.60.0 u93058483-rlezama open "//logs/access.log.20.5.gz" flags READ mode 0666
+May 22 09:19:24 10.71.60.0 u93058483-rlezama close "//logs/access.log.20.5.gz" bytes read 1519 written 0
+May 22 09:19:24 10.71.60.0 u93058483-rlezama [10.71.60.0|get|0|1519|0|0|0|2f2f6c6f67732f6163636573732e6c6f672e32302e352e677a|]
+May 22 09:19:24 10.71.60.0 u93058483-rlezama open "//logs/forensic/lock-1568220557.log" flags READ mode 0666
+May 22 09:19:25 10.71.60.0 u93058483-rlezama close "//logs/forensic/lock-1568220557.log" bytes read 992 written 0
+May 22 09:19:25 10.71.60.0 u93058483-rlezama [10.71.60.0|get|1|992|0|0|0|2f2f6c6f67732f666f72656e7369632f6c6f636b2d313536383232303535372e6c6f67|]
+May 22 09:19:25 10.71.60.0 u93058483-rlezama open "//logs/access.log.18.gz" flags READ mode 0666
+May 22 09:19:25 10.71.60.0 u93058483-rlezama close "//logs/access.log.18.gz" bytes read 5729 written 0
+May 22 09:19:25 10.71.60.0 u93058483-rlezama [10.71.60.0|get|0|5729|0|0|0|2f2f6c6f67732f6163636573732e6c6f672e31382e677a|]
+May 22 09:19:25 10.71.60.0 u93058483-rlezama open "//logs/access.log.20.1.gz" flags READ mode 0666
+May 22 09:19:25 10.71.60.0 u93058483-rlezama close "//logs/access.log.20.1.gz" bytes read 802 written 0
+May 22 09:19:25 10.71.60.0 u93058483-rlezama [10.71.60.0|get|0|802|0|0|0|2f2f6c6f67732f6163636573732e6c6f672e32302e312e677a|]
+May 22 09:19:25 10.71.60.0 u93058483-rlezama open "//logs/access.log.20.4.gz" flags READ mode 0666
+May 22 09:19:26 10.71.60.0 u93058483-rlezama close "//logs/access.log.20.4.gz" bytes read 1467 written 0
+May 22 09:19:26 10.71.60.0 u93058483-rlezama [10.71.60.0|get|1|1467|0|0|0|2f2f6c6f67732f6163636573732e6c6f672e32302e342e677a|]
+May 22 09:19:26 10.71.60.0 u93058483-rlezama open "//logs/access.log.20.7.gz" flags READ mode 0666
+May 22 09:19:26 10.71.60.0 u93058483-rlezama close "//logs/access.log.20.7.gz" bytes read 734 written 0
+May 22 09:19:26 10.71.60.0 u93058483-rlezama [10.71.60.0|get|0|734|0|0|0|2f2f6c6f67732f6163636573732e6c6f672e32302e372e677a|]
+May 22 09:19:26 10.71.60.0 u93058483-rlezama open "//logs/access.log.19.gz" flags READ mode 0666
+May 22 09:19:27 10.71.60.0 u93058483-rlezama close "//logs/access.log.19.gz" bytes read 6465 written 0
+May 22 09:19:27 10.71.60.0 u93058483-rlezama [10.71.60.0|get|1|6465|0|0|0|2f2f6c6f67732f6163636573732e6c6f672e31392e677a|]
+May 22 09:19:27 10.71.60.0 u93058483-rlezama open "//logs/sftp.log.15.gz" flags READ mode 0666
+May 22 09:19:27 10.71.60.0 u93058483-rlezama close "//logs/sftp.log.15.gz" bytes read 9085 written 0
+May 22 09:19:27 10.71.60.0 u93058483-rlezama [10.71.60.0|get|0|9085|0|0|0|2f2f6c6f67732f736674702e6c6f672e31352e677a|]
+May 22 09:19:27 10.71.60.0 u93058483-rlezama open "//logs/access.log.15.gz" flags READ mode 0666
+May 22 09:19:27 10.71.60.0 u93058483-rlezama close "//logs/access.log.15.gz" bytes read 4204 written 0
+May 22 09:19:27 10.71.60.0 u93058483-rlezama [10.71.60.0|get|0|4204|0|0|0|2f2f6c6f67732f6163636573732e6c6f672e31352e677a|]
+May 22 09:19:27 10.71.60.0 u93058483-rlezama open "//logs/access.log.16.gz" flags READ mode 0666
+May 22 09:19:28 10.71.60.0 u93058483-rlezama close "//logs/access.log.16.gz" bytes read 4980 written 0
+May 22 09:19:28 10.71.60.0 u93058483-rlezama [10.71.60.0|get|1|4980|0|0|0|2f2f6c6f67732f6163636573732e6c6f672e31362e677a|]
+May 22 09:19:28 10.71.60.0 u93058483-rlezama open "//logs/access.log.14.gz" flags READ mode 0666
+May 22 09:19:28 10.71.60.0 u93058483-rlezama close "//logs/access.log.14.gz" bytes read 5059 written 0
+May 22 09:19:28 10.71.60.0 u93058483-rlezama [10.71.60.0|get|0|5059|0|0|0|2f2f6c6f67732f6163636573732e6c6f672e31342e677a|]
+May 22 09:19:28 10.71.60.0 u93058483-rlezama open "//logs/access.log.20.2.gz" flags READ mode 0666
+May 22 09:19:28 10.71.60.0 u93058483-rlezama close "//logs/access.log.20.2.gz" bytes read 1368 written 0
+May 22 09:19:28 10.71.60.0 u93058483-rlezama [10.71.60.0|get|0|1368|0|0|0|2f2f6c6f67732f6163636573732e6c6f672e32302e322e677a|]
+May 22 09:19:28 10.71.60.0 u93058483-rlezama open "//logs/access.log.20.6.gz" flags READ mode 0666
+May 22 09:19:29 10.71.60.0 u93058483-rlezama close "//logs/access.log.20.6.gz" bytes read 1230 written 0
+May 22 09:19:29 10.71.60.0 u93058483-rlezama [10.71.60.0|get|1|1230|0|0|0|2f2f6c6f67732f6163636573732e6c6f672e32302e362e677a|]
+May 22 09:19:29 10.71.60.0 u93058483-rlezama open "//logs/access.log.21.1.gz" flags READ mode 0666
+May 22 09:19:29 10.71.60.0 u93058483-rlezama close "//logs/access.log.21.1.gz" bytes read 948 written 0
+May 22 09:19:29 10.71.60.0 u93058483-rlezama [10.71.60.0|get|0|948|0|0|0|2f2f6c6f67732f6163636573732e6c6f672e32312e312e677a|]
+May 22 09:19:29 10.71.60.0 u93058483-rlezama open "//logs/access.log.21.2.gz" flags READ mode 0666
+May 22 09:19:30 10.71.60.0 u93058483-rlezama close "//logs/access.log.21.2.gz" bytes read 952 written 0
+May 22 09:19:30 10.71.60.0 u93058483-rlezama [10.71.60.0|get|1|952|0|0|0|2f2f6c6f67732f6163636573732e6c6f672e32312e322e677a|]
+May 22 09:19:30 10.71.60.0 u93058483-rlezama open "//logs/access.log.21.3.gz" flags READ mode 0666
+May 22 09:19:30 10.71.60.0 u93058483-rlezama close "//logs/access.log.21.3.gz" bytes read 945 written 0
+May 22 09:19:30 10.71.60.0 u93058483-rlezama [10.71.60.0|get|0|945|0|0|0|2f2f6c6f67732f6163636573732e6c6f672e32312e332e677a|]
+May 22 09:19:30 10.71.60.0 u93058483-rlezama open "//logs/access.log.21.4.gz" flags READ mode 0666
+May 22 09:19:30 10.71.60.0 u93058483-rlezama close "//logs/access.log.21.4.gz" bytes read 2049 written 0
+May 22 09:19:30 10.71.60.0 u93058483-rlezama [10.71.60.0|get|0|2049|0|0|0|2f2f6c6f67732f6163636573732e6c6f672e32312e342e677a|]
+May 22 09:19:30 10.71.60.0 u93058483-rlezama open "//logs/access.log.21.5" flags READ mode 0666
+May 22 09:19:31 10.71.60.0 u93058483-rlezama close "//logs/access.log.21.5" bytes read 16682 written 0
+May 22 09:19:31 10.71.60.0 u93058483-rlezama [10.71.60.0|get|1|16682|0|0|0|2f2f6c6f67732f6163636573732e6c6f672e32312e35|]
+May 22 09:19:31 10.71.60.0 u93058483-rlezama open "//logs/access.log.current" flags READ mode 0666
+May 22 09:19:31 10.71.60.0 u93058483-rlezama close "//logs/access.log.current" bytes read 16682 written 0
+May 22 09:19:31 10.71.60.0 u93058483-rlezama [10.71.60.0|get|0|16682|0|0|0|2f2f6c6f67732f6163636573732e6c6f672e63757272656e74|]
+May 22 09:19:31 10.71.60.0 u93058483-rlezama open "//logs/sftp.log" flags READ mode 0666
